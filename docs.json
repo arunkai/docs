@@ -11,8 +11,17 @@
   "navigation": {
 
     "groups": [
-          {
+      {
+            "group": "Introduction",
+            "icon":"sprout",
+            "pages": [
+              "aboutme",
+              "quickstart"
+            ]
+      },    
+      {
             "group": "2025",
+            "icon":"calendar-fold",
             "pages": [
               "2025/anewstart"
             ]
@@ -37,26 +46,17 @@
       {
         "label": "Connect with me",
         "href": "https://arunkai.com",
-        "icon": "handshake"
+        "icon": "send"
       }
-    ],
-    "primary": {
-      "type": "button",
-      "label": "Connect with me",
-      "href": "https://arunkai.com",
-      "icon": "handshake"
-    }
+    ]
   },
   "contextual": {
     "options": [
-     "copy",
-     "view",
      "chatgpt",
      "claude",
      "perplexity",
      "mcp",
-     "cursor",
-     "vscode"
+     "cursor"
    ]
   },
   "footer": {
