@@ -9,10 +9,8 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "tabs": [
-      {
-        "tab": "Guides",
-        "groups": [
+
+    "groups": [
           {
             "group": "Getting started",
             "pages": [
@@ -24,8 +22,7 @@
           {
             "group": "Customization",
             "pages": [
-              "essentials/settings",
-              "essentials/navigation"
+              "essentials"
             ]
           },
           {
@@ -45,20 +42,13 @@
               "ai-tools/windsurf"
             ]
           }
-        ]
-      }
-    ],
+        ],
     "global": {
       "anchors": [
         {
           "anchor": "Back to website",
           "href": "https://arunkai.com",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
+          "icon": "arrow-left"
         }
       ]
     }
@@ -68,16 +58,10 @@
     "dark": "/logo/dark.svg"
   },
   "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
-      }
-    ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "label": "Connect with me",
+      "href": "https://arunkai.com"
     }
   },
   "contextual": {
