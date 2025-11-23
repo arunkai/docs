@@ -21,7 +21,7 @@
       },    
       {
             "group": "2025",
-            "icon":"calendar-fold",
+            "icon":"calendar",
             "pages": [
               "2025/anewstart"
             ]
