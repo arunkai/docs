@@ -33,6 +33,13 @@
     "dark": "/logo/dark.svg"
   },
   "navbar": {
+    "links":[
+      {
+        "label": "Connect with me",
+        "href": "https://arunkai.com",
+        "icon": "handshake"
+      }
+    ],
     "primary": {
       "type": "button",
       "label": "Connect with me",
