@@ -12,34 +12,9 @@
 
     "groups": [
           {
-            "group": "Getting started",
+            "group": "2025",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
-            ]
-          },
-          {
-            "group": "Customization",
-            "pages": [
-              "essentials"
-            ]
-          },
-          {
-            "group": "Writing content",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
-            ]
-          },
-          {
-            "group": "AI tools",
-            "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
+              "2025/anewstart"
             ]
           }
         ],
@@ -61,7 +36,8 @@
     "primary": {
       "type": "button",
       "label": "Connect with me",
-      "href": "https://arunkai.com"
+      "href": "https://arunkai.com",
+      "icon": "handshake"
     }
   },
   "contextual": {
