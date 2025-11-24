@@ -63,5 +63,12 @@
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
     }
+  },
+  "errors": {
+    "404": {
+      "redirect": false,
+      "title": "Uh-oh, you seem to be lost",
+      "description": "What ever **happened** to this _page_?"
+    }
   }
 }
