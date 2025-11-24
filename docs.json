@@ -3,7 +3,9 @@
   "theme": "aspen",
   "name": "Arun Kai's Notes",
   "colors": {
-    "primary": "#FF3700"
+    "primary": "#FF3700",
+    "light":"#FF3700",
+    "dark":"#FF3700"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -13,15 +15,15 @@
             "group": "Introduction",
             "icon":"sprout",
             "pages": [
-              "aboutme",
-              "aboutThisBlog"
+              "about-me",
+              "about-this-blog"
             ]
       },    
       {
             "group": "2025",
             "icon":"calendar",
             "pages": [
-              "2025/anewstart"
+              "2025/a-new-start"
             ]
           }
         ],
@@ -44,7 +46,7 @@
       {
         "label": "Connect with me",
         "href": "https://arunkai.com",
-        "icon": "send"
+        "icon": "mail-plus"
       }
     ]
   },
